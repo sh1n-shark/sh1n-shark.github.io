@@ -18,12 +18,12 @@ export default function LinkTree() {
   return (
     <Container>
       <Header picture={sh1nLogo} title='SH1N.shark' />
-	  <Button link='https://www.tiktok.com/@sh1n.shark' icon={tiktokLogo} name='TikTok' backgroundColor={variables.tiktokColor} />
-	  <Button link='https://twitch.tv/sh1n_shark' icon={twitchLogo} name='Twitch' backgroundColor={variables.twitchColor} />
-	  <Button link='https://furaffinity.net/user/sh1n.shark' icon={faLogo} name='Furaffinity' backgroundColor={variables.faColor} />
-	  <Button link='https://vrchat.com/home/user/usr_15edda65-7334-44be-8203-50bd8f7cfd84' icon={vrcLogo} name='VRChat' backgroundColor={variables.vrcColor}  />
+	    <Button link='https://www.tiktok.com/@sh1n.shark' icon={tiktokLogo} name='TikTok' backgroundColor={variables.tiktokColor} />
+      <Button link='https://twitch.tv/sh1n_shark' icon={twitchLogo} name='Twitch' backgroundColor={variables.twitchColor} />
+      <Button link='https://furaffinity.net/user/sh1n.shark' icon={faLogo} name='Furaffinity' backgroundColor={variables.faColor} />
+      <Button link='https://vrchat.com/home/user/usr_15edda65-7334-44be-8203-50bd8f7cfd84' icon={vrcLogo} name='VRChat' backgroundColor={variables.vrcColor}  />
       <Button type='button' icon={discordLogo} name='SH1N#1147' backgroundColor={variables.discordColor} />
-	  <Button link='https://t.me/sh1n_shark' icon={tgLogo} name='Telegram' backgroundColor={variables.tgColor} />	  
+      <Button link='https://t.me/sh1n_shark' icon={tgLogo} name='Telegram' backgroundColor={variables.tgColor} />	  
       <Button link='https://www.youtube.com/channel/UCnKZSvqkD3PQZNm-ISbqGmQ' icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />
       <Button link='https://twitter.com/sh1n_shark' icon={twitterLogo} name='Twitter' backgroundColor={variables.twitterColor} />
     </Container>
