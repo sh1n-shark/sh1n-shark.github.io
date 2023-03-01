@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d7d79d557affbf24db5ab5c0d0ec92a",
+    "revision": "105a59e0da507ddb68cef1f2805032f2",
     "url": "/index.html"
   },
   {
-    "revision": "f9fe8c983fa7dcaaea8c",
+    "revision": "ad95ef71f0843c11b50e",
     "url": "/static/css/main.9618cd4d.chunk.css"
   },
   {
-    "revision": "7d1a2364f0d37ee5529f",
-    "url": "/static/js/2.d48aad5b.chunk.js"
+    "revision": "a1e5ba20f46958ea99d6",
+    "url": "/static/js/2.46de6f68.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/static/js/2.d48aad5b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.46de6f68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9fe8c983fa7dcaaea8c",
-    "url": "/static/js/main.68f409c4.chunk.js"
+    "revision": "ad95ef71f0843c11b50e",
+    "url": "/static/js/main.aaf711c8.chunk.js"
   },
   {
     "revision": "82ffe14afd960f68bc5a",
     "url": "/static/js/runtime-main.32c48fde.js"
+  },
+  {
+    "revision": "db34686cd8a0d4dc054fc07c557a454a",
+    "url": "/static/media/boosty.db34686c.svg"
   },
   {
     "revision": "8113ca4b374db5785ca003421878165a",
