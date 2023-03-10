@@ -15,14 +15,14 @@
     "styled-components": "^5.0.1"
   },
   "scripts": {
-    "start": "react-scripts  start",
-    "build": "react-scripts  build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts  start",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts  build",
+    "test": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts test",
+    "eject": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts eject",
+    "storybook": "SET NODE_OPTIONS=--openssl-legacy-provider && start-storybook -p 9009 -s public",
+    "build-storybook": "SET NODE_OPTIONS=--openssl-legacy-provider && build-storybook -s public",
+    "predeploy": "SET NODE_OPTIONS=--openssl-legacy-provider && yarn build",
+    "deploy": "SET NODE_OPTIONS=--openssl-legacy-provider && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
