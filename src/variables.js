@@ -9,5 +9,5 @@ export default {
   tgColor: '#229ED9',
   faColor: '#353B45',
   twitchColor: '#9146FF',
-  boostyColor: '#FFFFFF',
+  boostyColor: '#EEEEEE',
 }
