@@ -10,4 +10,5 @@ export default {
   faColor: '#353B45',
   twitchColor: '#9146FF',
   boostyColor: '#EEEEEE',
+  throneColor: '#1A202C',
 }
