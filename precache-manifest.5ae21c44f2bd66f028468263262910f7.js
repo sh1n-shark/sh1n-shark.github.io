@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1020dbe69ebdc2981b88f2b39be0da4c",
+    "revision": "ba709be933e10f2fcdbe8aba5f5b49d6",
     "url": "/index.html"
   },
   {
-    "revision": "03dd53fea546ab95529c",
-    "url": "/static/css/main.9618cd4d.chunk.css"
+    "revision": "a1fee267996f627cd3de",
+    "url": "/static/css/main.32166cca.chunk.css"
   },
   {
-    "revision": "ffaac7fd83cfd53ba1cd",
-    "url": "/static/js/2.2054ce89.chunk.js"
+    "revision": "a1e5ba20f46958ea99d6",
+    "url": "/static/js/2.46de6f68.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/static/js/2.2054ce89.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.46de6f68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03dd53fea546ab95529c",
-    "url": "/static/js/main.53854607.chunk.js"
+    "revision": "a1fee267996f627cd3de",
+    "url": "/static/js/main.2c48ad57.chunk.js"
   },
   {
     "revision": "82ffe14afd960f68bc5a",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/boosty.0900bf50.svg"
   },
   {
-    "revision": "8113ca4b374db5785ca003421878165a",
-    "url": "/static/media/discord.8113ca4b.svg"
+    "revision": "145dc557845548a36a82337912ca3ac5",
+    "url": "/static/media/discord.145dc557.svg"
   },
   {
     "revision": "3dbcd899b51cd3c4c0e9e843248d2a82",
     "url": "/static/media/fa.3dbcd899.png"
   },
   {
-    "revision": "cb202f6bfa1463dc5d135f60112a9a42",
-    "url": "/static/media/tg.cb202f6b.svg"
+    "revision": "ef85f69c21d5d7ed0d97e21c1581d7be",
+    "url": "/static/media/tg.ef85f69c.svg"
   },
   {
     "revision": "268902dac3aa9a20c7f7f119f14545cc",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tiktok.b1a68c1f.svg"
   },
   {
-    "revision": "1e1a70ab8dc6b5d810cefecd66342b7f",
-    "url": "/static/media/twitch.1e1a70ab.svg"
+    "revision": "c984e73f8d263c15cc0855fc791ddead",
+    "url": "/static/media/twitch.c984e73f.svg"
   },
   {
     "revision": "5d0a2e9cfa1d86abf437fdca65cacae8",
