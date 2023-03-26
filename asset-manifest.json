@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.32166cca.chunk.css",
-    "main.js": "/static/js/main.5318c7bc.chunk.js",
-    "main.js.map": "/static/js/main.5318c7bc.chunk.js.map",
+    "main.css": "/static/css/main.9618cd4d.chunk.css",
+    "main.js": "/static/js/main.1f8b009d.chunk.js",
+    "main.js.map": "/static/js/main.1f8b009d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32c48fde.js",
     "runtime-main.js.map": "/static/js/runtime-main.32c48fde.js.map",
-    "static/js/2.43152b1d.chunk.js": "/static/js/2.43152b1d.chunk.js",
-    "static/js/2.43152b1d.chunk.js.map": "/static/js/2.43152b1d.chunk.js.map",
+    "static/js/2.bb0cec83.chunk.js": "/static/js/2.bb0cec83.chunk.js",
+    "static/js/2.bb0cec83.chunk.js.map": "/static/js/2.bb0cec83.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1d98e39637d18efee989390217380bc9.js": "/precache-manifest.1d98e39637d18efee989390217380bc9.js",
+    "precache-manifest.abd9c86034b379a9b4280d4f8a002b33.js": "/precache-manifest.abd9c86034b379a9b4280d4f8a002b33.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.32166cca.chunk.css.map": "/static/css/main.32166cca.chunk.css.map",
-    "static/js/2.43152b1d.chunk.js.LICENSE.txt": "/static/js/2.43152b1d.chunk.js.LICENSE.txt",
-    "static/media/boosty.svg": "/static/media/boosty.0900bf50.svg",
-    "static/media/discord.svg": "/static/media/discord.145dc557.svg",
+    "static/css/main.9618cd4d.chunk.css.map": "/static/css/main.9618cd4d.chunk.css.map",
+    "static/js/2.bb0cec83.chunk.js.LICENSE.txt": "/static/js/2.bb0cec83.chunk.js.LICENSE.txt",
+    "static/media/boosty.svg": "/static/media/boosty.db34686c.svg",
+    "static/media/discord.svg": "/static/media/discord.8113ca4b.svg",
     "static/media/fa.png": "/static/media/fa.3dbcd899.png",
-    "static/media/tg.svg": "/static/media/tg.ef85f69c.svg",
+    "static/media/tg.svg": "/static/media/tg.cb202f6b.svg",
     "static/media/throne.png": "/static/media/throne.268902da.png",
     "static/media/tiktok.svg": "/static/media/tiktok.b1a68c1f.svg",
-    "static/media/twitch.svg": "/static/media/twitch.c984e73f.svg",
+    "static/media/twitch.svg": "/static/media/twitch.1e1a70ab.svg",
     "static/media/twitter.svg": "/static/media/twitter.5d0a2e9c.svg",
     "static/media/v4_pfp.png": "/static/media/v4_pfp.8f82cfff.png",
     "static/media/vrc.png": "/static/media/vrc.655928da.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.32c48fde.js",
-    "static/js/2.43152b1d.chunk.js",
-    "static/css/main.32166cca.chunk.css",
-    "static/js/main.5318c7bc.chunk.js"
+    "static/js/2.bb0cec83.chunk.js",
+    "static/css/main.9618cd4d.chunk.css",
+    "static/js/main.1f8b009d.chunk.js"
   ]
 }
