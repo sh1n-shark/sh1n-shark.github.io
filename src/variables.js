@@ -11,4 +11,5 @@ export default {
   twitchColor: '#9146FF',
   boostyColor: '#EEEEEE',
   throneColor: '#1A202C',
+  gumroadColor: '#ffc900',
 }

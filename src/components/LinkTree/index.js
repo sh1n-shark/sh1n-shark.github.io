@@ -15,6 +15,7 @@ const faLogo = require('../../images/fa.png')
 const twitchLogo = require('../../images/twitch.svg')
 const boostyLogo = require('../../images/boosty.svg')
 const throneLogo = require('../../images/throne.png')
+const gumroadLogo = require('../../images/gumroad.png')
 
 export default function LinkTree() {
   return (
@@ -30,6 +31,7 @@ export default function LinkTree() {
       <Button link='https://t.me/sh1n_shark' icon={tgLogo} name='Telegram' backgroundColor={variables.tgColor} />	  
       <Button link='https://www.youtube.com/channel/UCnKZSvqkD3PQZNm-ISbqGmQ' icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />
       <Button link='https://twitter.com/sh1n_shark' icon={twitterLogo} name='Twitter' backgroundColor={variables.twitterColor} />
+	  <Button link='https://sh1nshark.gumroad.com/' icon={gumroadLogo} name='Gumroad' backgroundColor={variables.gumroadColor} />
     </Container>
   )
 }
