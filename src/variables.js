@@ -12,4 +12,6 @@ export default {
   boostyColor: '#EEEEEE',
   throneColor: '#1A202C',
   gumroadColor: '#ffc900',
+  bskyColor: '#0071fd',
+  bmcColor: '#ffdd00',
 }

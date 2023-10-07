@@ -12,7 +12,7 @@ export const Container = styled.div`
 export const Picture = styled.div`
   background-image: url( ${ ({ background }) => background});
   background-size: cover;
-  /* border-radius: 50%; */
+  border-radius: 50%; 
   height: 130px;
   margin: 0 auto;
   width: 130px;
