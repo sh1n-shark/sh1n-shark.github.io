@@ -1,3 +1,3 @@
 # https://humanstxt.org/
 
-Made by SH1N.shark based on https://github.com/Danielgomesp/react-linktree
+Made by SH1N.shark forked from https://github.com/Danielgomesp/react-linktree
